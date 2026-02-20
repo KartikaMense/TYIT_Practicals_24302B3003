@@ -1,0 +1,2 @@
+Shortest Path: delhi -> indore -> mumbai
+Total Cost: 2000
