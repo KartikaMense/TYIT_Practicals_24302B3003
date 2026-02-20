@@ -1,0 +1,7 @@
+Fill 3g jug.
+Pour water from 3g jug to 4g jug.
+Fill 3g jug.
+Pour water from 3g jug to 4g jug until the 4g jug is full.
+Empty 4g jug.
+Pour water from 3g jug to 4g jug.
+Goal state reached.
