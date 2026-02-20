@@ -7,10 +7,13 @@ Student Details
 
 ---
 
-## 📌 Practical 01  
-**Title:** Implementation of A* Algorithm using Python  
+## Practical 01
+Title: Artificial Intelligence Programs
 
-### Description:
+Question 1: A* Algorithm using Python  
+Question 2: Water Jug Problem using Prolog
+
+### Description for Question 1:
 This program implements the A* (A-Star) search algorithm to find the shortest path between cities using heuristic values.
 
 ### Output:
@@ -23,8 +26,22 @@ Total Cost: 2000
 3. Run:
 python astar.py
 
+### Question 2: Water Jug Problem using Prolog
 
+Description:
+This program implements the Water Jug problem using Prolog. 
+The objective is to measure a specific quantity of water using a 3-gallon and 4-gallon jug. 
+The program follows step-by-step state transitions to reach the goal state (2 gallons in the 4-gallon jug). 
+It also handles overflow conditions.
+
+### How to Run:
+1. Install SWI-Prolog
+2. Load the file:
+   [jug].
+3. Execute:
+   jug(0,0).
 ---
+
 
 ## 📌 Practical 02
 **Title:** Android User Registration Form using Kotlin  
